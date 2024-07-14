@@ -1,0 +1,33 @@
+{
+	"expo": {
+		"name": "ReactNativeBoilerplate",
+		"slug": "ReactNativeBoilerplate",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/images/icon.png",
+		"userInterfaceStyle": "light",
+		"splash": {
+			"image": "./assets/images/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/images/adaptive-icon.png",
+				"backgroundColor": "#ffffff"
+			},
+			"package": "com.kraa.ReactNativeBoilerplate"
+		},
+		"web": {
+			"favicon": "./assets/images/favicon.png"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "16193c7c-03b3-441d-bef1-c0b3e4b3334a"
+			}
+		}
+	}
+}
